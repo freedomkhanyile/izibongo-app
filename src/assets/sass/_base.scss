@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 @import "variables";
+@import "./components/nav";
+
 * {
     margin:0;
     padding: 0;
@@ -8,6 +10,8 @@
 body {
     font-family: 'Montserrat', sans-serif;
     color: $black-color;
+    background: $white-color;
+    padding: 2%;
     a {
         color: $black-color;
         text-decoration: none;

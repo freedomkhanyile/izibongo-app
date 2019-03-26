@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="226.127" height="226.127" viewBox="0 0 226.127 226.127">
+  <defs>
+    <filter id="Path_18" x="0" y="0" width="226.127" height="226.127" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="burger-menu" transform="translate(-1291 -661)">
+    <g transform="matrix(1, 0, 0, 1, 1291, 661)" filter="url(#Path_18)">
+      <path id="Path_18-2" data-name="Path 18" d="M104.063,0A104.063,104.063,0,1,1,0,104.063,104.063,104.063,0,0,1,104.063,0Z" transform="translate(9 6)" fill="#fafafa"/>
+    </g>
+    <rect id="Rectangle_79" data-name="Rectangle 79" width="34.829" height="34.828" rx="17.414" transform="translate(1429.001 754.001)" fill="blue"/>
+    <rect id="Rectangle_80" data-name="Rectangle 80" width="34.829" height="34.828" rx="17.414" transform="translate(1387.001 754.001)" fill="#8511a6"/>
+    <rect id="Rectangle_81" data-name="Rectangle 81" width="34.829" height="34.828" rx="17.414" transform="translate(1345.001 754.001)" fill="#e91e63"/>
+  </g>
+</svg>
